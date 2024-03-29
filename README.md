@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hemanth Kumar
+- 👋 Hi, I’m Hemanth Kumar, I am currently enrolled as graduate student in Mathematics department at University of Iowa.
 - 👀 I’m interested in Mathematical biology, Applied topology - Topological Data Analysis
 - 🌱 I’m currently learning Tranformer neural network to train video based data, TDA mapper - Ball mapper
 - 💞️ I’m looking to collaborate on Neural network, TDA mapper, Mathematical modelling and analysis of biological data
